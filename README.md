@@ -2,6 +2,7 @@
 
 简单的Todos的练习，实做的同时了解基本原理
 
+[DEMO](https://mouselu00.github.io/vue-todos)
 ## 安装
 ``` bash
 # install dependencies
