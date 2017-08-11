@@ -1,9 +1,8 @@
 # vue-todos
 
-> todos likes
+简单的Todos的练习，实做的同时了解基本原理
 
-## Build Setup
-
+## 安装
 ``` bash
 # install dependencies
 npm install
@@ -15,4 +14,10 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 遇到的坑
+* `transition-group`需要的`key`不可给`index`
+* `v-leave-active`的`style`
+  > `.class-leave-active { position: absolute }`
+
+
